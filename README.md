@@ -1,5 +1,11 @@
 # rust教程
 
+如何运行：
+
+> python3 -m http.server 80
+
+如果80端口被占用就换一个端口，然后打开浏览器输入localhost:端口，即可阅读
+
 教程目标用户：至少掌握一门静态语言(如Java、C)，以及至少掌握一门脚本语言(Python、Ruby、JavaScript)
 
 ---
