@@ -10,6 +10,7 @@
     - [enum和option](/README.md)
     - [遍历常见数据结构](/README.md)
 - **Rust指针**
+    - [lifetime和static](/README.md)
 - **Rust线程**
 - **数据库与网络编程**
     - [json序列化与反序列化](/README.md)
@@ -21,3 +22,5 @@
 - **actix websocket**
     - [ping/pong与心跳包](websocket_heartbeat.md)
     - [websocket](/README.md)
+- **Rust区块链应用**
+    - [substrate发链](/README.md)
